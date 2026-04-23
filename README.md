@@ -11,12 +11,23 @@
   🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades
 </p>
 
-<p align="center">
-  <a href="https://discord.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" style="display:inline-block;" /></a>
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" style="display:inline-block;" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" style="display:inline-block;" /></a>
-  <a href="https://instagram.com/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" style="display:inline-block;" /></a>
-  <a href="https://wa.me/seunumerowhatsapp"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" style="display:inline-block;" /></a>
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@oreidosites">
+    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.youtube.com/@oreidosites">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 
