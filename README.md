@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=30&fontColor=FFFFFF&fontAlign=48&fontAlignY=50&rotate=0&animation=fadeIn&color=#b700ff00" />
-</div>
 
-<h3 align="center">Olá! Eu sou a Isabella Costa 👋</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=30&fontColor=FFFFFF&fontAlign=48&fontAlignY=50&rotate=0&animation=fadeIn&color=#b700ff00" />
 
-<p align="center">
-  📍 Sou de Guaratinguetá - SP , Brasil<br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-  💻 Interessada em Desenvolvimento Full-Stack, com foco em Web e Software.<br>
-  🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades
+<h3>Olá! Eu sou a Isabella Costa 👋</h3>
+
+<p>
+📍 Sou de Guaratinguetá - SP , Brasil<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💻 Interessada em Desenvolvimento Full-Stack, com foco em Web e Software.<br>
+🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades e buscando vagas de estágio
 </p>
 
----
-
-<p align="left">
+<p>
   <a href="https://github.com/Isabellagcsantos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -28,41 +26,29 @@
   </a>
 </p>
 
-
-
-
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isabellagcsantos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellagcsantos&layout=compact&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isabellagcsantos&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellagcsantos&layout=compact&theme=tokyonight" />
 
----
+##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
