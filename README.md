@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=30&fontColor=FFFFFF&fontAlign=48&fontAlignY=50&rotate=0&animation=fadeIn&color=#b700ff00" />
 </div>
 
----
-
 <h3 align="center">Olá! Eu sou a Isabella Costa 👋</h3>
 
 <p align="center">
@@ -13,19 +11,13 @@
   🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades
 </p>
 
----
-
 <p align="center">
-  <a href="https://discord.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" /></a>
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" /></a>
-  <a href="https://instagram.com/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a>
+  <a href="https://discord.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" /></a> 
+  <a href="https://linkedin.com/in/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" /></a> 
+  <a href="mailto:seuemail@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" /></a> 
+  <a href="https://instagram.com/seuusuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a> 
   <a href="https://wa.me/seunumerowhatsapp"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo" /></a>
 </p>
-
-
-
----
 
 ## 🛠️ Tech Stack
 
