@@ -23,6 +23,8 @@
   <a href="https://wa.me/seunumerowhatsapp"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo" /></a>
 </p>
 
+
+
 ---
 
 ## 🛠️ Tech Stack
