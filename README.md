@@ -21,7 +21,7 @@
   <a href="https://instagram.com/_.isabella.costa._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:isabella.costa20081@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=isabella.costa20081@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
