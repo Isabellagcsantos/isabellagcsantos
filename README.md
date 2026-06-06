@@ -40,8 +40,8 @@
 
 ## GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isabellagcsantos&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellagcsantos&layout=compact&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isabellagcsantos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellagcsantos&layout=compact&theme=tokyonight)
 
 ##
 
